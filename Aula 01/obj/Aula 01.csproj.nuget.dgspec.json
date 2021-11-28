@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Japa\\Desktop\\html\\Aula c#\\Aula 01\\Aula 01.csproj": {}
+    "C:\\Users\\Japa\\Desktop\\Curso\\Aula c#\\Aula 01\\Aula 01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Japa\\Desktop\\html\\Aula c#\\Aula 01\\Aula 01.csproj": {
+    "C:\\Users\\Japa\\Desktop\\Curso\\Aula c#\\Aula 01\\Aula 01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Japa\\Desktop\\html\\Aula c#\\Aula 01\\Aula 01.csproj",
+        "projectUniqueName": "C:\\Users\\Japa\\Desktop\\Curso\\Aula c#\\Aula 01\\Aula 01.csproj",
         "projectName": "Aula 01",
-        "projectPath": "C:\\Users\\Japa\\Desktop\\html\\Aula c#\\Aula 01\\Aula 01.csproj",
+        "projectPath": "C:\\Users\\Japa\\Desktop\\Curso\\Aula c#\\Aula 01\\Aula 01.csproj",
         "packagesPath": "C:\\Users\\Japa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Japa\\Desktop\\html\\Aula c#\\Aula 01\\obj\\",
+        "outputPath": "C:\\Users\\Japa\\Desktop\\Curso\\Aula c#\\Aula 01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Japa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Japa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
