@@ -5,10 +5,14 @@ namespace Aula_01
     class Program{
         public static void Main(string[] args){ 
            // Tipos de dados
-          string a = "JANILSON";
-          string b = "janilson";
+            string nome = "Janilson";
+            string sobrenome = "Coimbra";
+            int idade = 25;
+            double valor = 2500.50;
 
-          Console.WriteLine(a == b);
+            // Saida de dados
+            Console.WriteLine("Olá meu nome é "+nome+sobrenome+" eu tenho "+idade+" anos e minha conta tem R$"+valor); 
+
 
         }
     }
