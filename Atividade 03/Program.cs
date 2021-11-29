@@ -8,6 +8,7 @@ namespace Atividade_03
         {
             while (true) {
             double v1, v2;
+            
             Console.WriteLine("Valor 01 :");
             v1 = Double.Parse(Console.ReadLine());
             Console.WriteLine("Valor 02 :");
