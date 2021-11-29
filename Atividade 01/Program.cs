@@ -4,7 +4,7 @@ namespace Aula_01
 {
     class Program{
         public static void Main(string[] args){ 
-         
+          
          int v1, v2, v3;
         Console.WriteLine("Digite o valor 01");
         v1 = int.Parse(Console.ReadLine());
