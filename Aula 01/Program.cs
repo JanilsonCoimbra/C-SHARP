@@ -4,14 +4,36 @@ namespace Aula_01
 {
     class Program{
         public static void Main(string[] args){ 
-           // Tipos de dados
-            string nome = "Janilson";
-            string sobrenome = "Coimbra";
-            int idade = 25;
-            double valor = 2500.50;
+         
+         int v1, v2, v3;
+        Console.WriteLine("Digite o valor 01");
+        v1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("Digite o valor 02");
+        v2 = int.Parse(Console.ReadLine());
+        Console.WriteLine("Digite o valor 03");
+        v3 = int.Parse(Console.ReadLine());
+        if(v1 > v2 & v1 < v3) {
+            Console.WriteLine("Numero do meio é"+v1);
+        }else if(v2 > v1 & v2 < v3){
+            Console.WriteLine("Numero do meio é"+v2);
+        }else if(v3 > v1 & v3 < v2){
+            Console.WriteLine("Numero do meio é"+v3);
+        }else if(v1 < v2 & v1 > v3){
+            Console.WriteLine("Numero do meio é"+v1);
+        }else if(v2 < v1 & v2 > v3){
+            Console.WriteLine("Numero do meio é"+v2);
+        }else if(v3 > v1 & v3 < v2){
+            Console.WriteLine("Numero do meio é"+v3);
+        }else {
+            Console.WriteLine("Numero iguais!");
+        }
 
-            // Saida de dados
-            Console.WriteLine("Olá meu nome é "+nome+sobrenome+" eu tenho "+idade+" anos e minha conta tem R$"+valor); 
+        
+        
+
+
+           
+
 
 
         }
