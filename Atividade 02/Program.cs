@@ -7,6 +7,7 @@ namespace Aula_02
         static void Main(string[] args)
         {
             float n1, n2, media;
+            
             Console.WriteLine("Sua nota 01 :");
             n1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Sua nota 02 :");
