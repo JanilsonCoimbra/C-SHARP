@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitoria", "Monitoria\Monitoria.csproj", "{2E8919F5-F054-4251-AED9-7B75E245EAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8919F5-F054-4251-AED9-7B75E245EAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8919F5-F054-4251-AED9-7B75E245EAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8919F5-F054-4251-AED9-7B75E245EAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8919F5-F054-4251-AED9-7B75E245EAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B434C881-CC87-49B3-A2A4-D629537B58AC}
+	EndGlobalSection
+EndGlobal

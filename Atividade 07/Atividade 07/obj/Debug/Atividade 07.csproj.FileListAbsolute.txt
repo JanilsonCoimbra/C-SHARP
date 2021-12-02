@@ -1,0 +1,14 @@
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\bin\Debug\Atividade 07.exe.config
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\bin\Debug\Atividade 07.exe
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\bin\Debug\Atividade 07.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade 07.csproj.AssemblyReference.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade_07.Form1.resources
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade_07.Properties.Resources.resources
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade 07.csproj.GenerateResource.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade 07.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade 07.exe
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade 07.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\bin\Debug\pt-BR\Atividade 07.resources.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade_07.Form1.pt-BR.resources
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\pt-BR\Atividade 07.resources.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 07\Atividade 07\obj\Debug\Atividade_07.Form2.resources
