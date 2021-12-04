@@ -1,0 +1,24 @@
+﻿@{
+    string title = "Minha primeira Pagina";
+    string titulo = "Trabalhando com Razo";
+    string[] lista = { "Nome", "SobreNome", "Email","Contatos" };
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@title</title>
+</head>
+<body>
+    <div>
+    <h1>@titulo</h1>
+        <ol>
+            @foreach(var content in lista){
+                <li>@content</li>
+            }
+        </ol>
+    </div>
+</body>
+</html>

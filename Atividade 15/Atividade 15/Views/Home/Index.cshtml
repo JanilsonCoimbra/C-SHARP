@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@using (Html.BeginForm("Index", "Pagina Principal", FormMethod.Post))
+{
+    <br />
+    @Html.Label("Nome: ")
+    @Html.TextBox("UserName")
+    <br />
+    @Html.Label("Telefone: ")
+    @Html.TextBox("UserPhone")
+    <br />
+    @Html.Label("E-mail: ")
+    @Html.TextBox("UserEmail")
+    <br />
+    @Html.Label("Senha: ")
+    @Html.TextBox("UserPassword")
+    <br />
+    <br />
+    @Html.Label("Sexo")
+    @Html.Label("M")
+    @Html.RadioButton("M", new { value = "Masculino" })
+    @Html.Label("F")
+    @Html.RadioButton("F", new { value = "Feminino" })
+    <br />
+    <br />
+    <input type="submit" />
+}

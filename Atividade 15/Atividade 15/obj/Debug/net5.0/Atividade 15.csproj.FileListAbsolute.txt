@@ -1,0 +1,40 @@
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\appsettings.json
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.exe
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.deps.json
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.runtimeconfig.json
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.runtimeconfig.dev.json
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\ref\Atividade 15.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.Views.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\bin\Debug\net5.0\Atividade 15.Views.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.csproj.AssemblyReference.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.AssemblyInfoInputs.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.AssemblyInfo.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.RazorAssemblyInfo.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.RazorAssemblyInfo.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\staticwebassets\Atividade 15.StaticWebAssets.Manifest.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\staticwebassets\Atividade 15.StaticWebAssets.xml
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\scopedcss\bundle\Atividade 15.styles.css
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.TagHelpers.input.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.TagHelpers.output.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.RazorCoreGenerate.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.RazorTargetAssemblyInfo.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.RazorTargetAssemblyInfo.cs
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.Views.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\ref\Atividade 15.dll
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.genruntimeconfig.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 15\Atividade 15\obj\Debug\net5.0\Atividade 15.csproj.CopyComplete

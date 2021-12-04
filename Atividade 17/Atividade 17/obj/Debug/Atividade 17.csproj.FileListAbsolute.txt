@@ -1,0 +1,10 @@
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\bin\Debug\Atividade 17.exe.config
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\bin\Debug\Atividade 17.exe
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\bin\Debug\Atividade 17.pdb
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade 17.csproj.AssemblyReference.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade_17.Form1.resources
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade_17.Properties.Resources.resources
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade 17.csproj.GenerateResource.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade 17.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade 17.exe
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17\Atividade 17\obj\Debug\Atividade 17.pdb

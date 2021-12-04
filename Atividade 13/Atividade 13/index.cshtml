@@ -1,0 +1,44 @@
+﻿@{
+    string head = "meu primeiro App Razo";
+    string titulo = "App Razo";
+    string paragrafo1 = "Atualizando meu curriculo com razo web";
+    string paragrafo2 = "O razo é interessante modelo da microssoft para ajudar no desenvolvimento de aplicações web";
+
+    String[] alunos = { "Carlos", "Clara", "André", "Joana" };
+    int[] notas = { 6,4,7,3};
+    var resultado = "";
+
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Style.css"/>
+    <title>@head</title>
+</head>
+<body>
+    <div>
+    <h1>@titulo</h1>
+        <p>@paragrafo1</p>
+        <p>@paragrafo2</p>
+        <ol>
+        @for(int cont = 0; cont < alunos.Length; cont++)
+        {
+            if (notas[cont] < 5)
+            {
+                resultado = "reprovado";
+            }
+            else
+            {
+                resultado = "aprovado";
+            }
+
+            <li class="@resultado">
+                @("Aluno: "+ alunos[cont]+" ficou com nota : "+notas[cont]+" resultado: "+resultado);
+            </li>
+        }
+        </ol>
+    </div>
+</body>
+</html>
