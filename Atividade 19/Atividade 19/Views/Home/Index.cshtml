@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Resultado final";
+}
+
+<section>
+    <br /><br />
+    <a class="btn btn-default" href="/Cadastrar">Cadastrar</a>
+          <table class="table">
+              <tr>
+                  <th>Id</th>
+                  <th>Nome</th>
+                  <th>Modelo</th>
+                  <th>Ano</th>
+                  <th>Fabricação</th>
+                  <th>Cor</th>
+                  <th>Combustivel</th>
+                  <th>Valor</th>
+                  <th>Valor</th>
+                  <th>Ativo</th>
+              </tr>
+              @foreach (var list in ViewBag.Lista)
+              {
+              <tr>
+                  <td>@(list.Id) </td>
+                  <td>@(list.Nome) </td>
+                  <td>@(list.Modelo) </td>
+                  <td>@(list.Ano) </td>
+                  <td>@(list.Fabricacao) </td>
+                  <td>@(list.Cor) </td>
+                  <td>@(list.Combustivel) </td>
+                  <td>@(list.Automatico) </td>
+                  <td>@(list.Valor) </td>
+                  <td>@(list.Ativo) </td>
+
+              </tr>
+              }
+              </table>
+</section>
+
+
+
+
+

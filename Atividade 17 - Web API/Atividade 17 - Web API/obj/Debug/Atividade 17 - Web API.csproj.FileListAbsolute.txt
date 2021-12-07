@@ -1,0 +1,2 @@
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17 - Web API\Atividade 17 - Web API\obj\Debug\Atividade 17 - Web API.csproj.AssemblyReference.cache
+C:\Users\Japa\Desktop\Curso\Aula c#\Atividade 17 - Web API\Atividade 17 - Web API\obj\Debug\Atividade 17 - Web API.csproj.CoreCompileInputs.cache

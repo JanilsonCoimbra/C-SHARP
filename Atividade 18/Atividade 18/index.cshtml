@@ -1,0 +1,41 @@
+﻿@{
+    string title = "Minha pagina";
+    string[] alunos = { "Maira", "Taina", "Janilson", "Denilson", "João", "Pedro", "Tiago","Maria", "GIlson" };
+    int[] notas = {5,9,9,4,8,5,6,7,4 };
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet"  href="~/Style.css" /> 
+    <title>@title</title>
+</head>
+<body>
+    <div>
+       <h1>Consulte o resultado final</h1>
+
+       <ol>
+           @for (int c = 0; c < alunos.Length; c++)
+           {
+               if (notas[c] <= 5)
+               {
+                   <li class="reprovado">
+                       @("Aluno : " + alunos[c] + " Nota : " + notas[c] + " Status: Reprovado")
+                   </li>
+               }
+               else
+               {
+                   <li class="aprovado">
+                       @("Aluno : " + alunos[c] + " Nota : " + notas[c] + " Status: Aprovado")
+                   </li>
+               }
+
+
+           }
+       </ol>
+
+    </div>
+</body>
+</html>
